@@ -174,7 +174,7 @@ SWITCH(
 📦 olist-powerbi
  ┣ 📊 olist_assignment.pbix     # Main Power BI file
  ┣ 📄 README.md                 # This file
- ┗ 📁 data/                     # Place Olist CSV files here (not tracked in git)
+ ┗ 📁 OLIST/                     # Place Olist CSV files here (not tracked in git)
 ```
 
 ---
@@ -189,5 +189,5 @@ SWITCH(
 
 ## 👤 Author
 
-**Abdou**  
+**Abderrahmen Malouche**  
 Business Intelligence Assignment — Olist Brazilian E-Commerce Dataset
